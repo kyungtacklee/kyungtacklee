@@ -11,12 +11,14 @@
             "id": "26ea3c2cfe2296aa",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "MindMap.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "MindMap"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -181,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "26ea3c2cfe2296aa",
+  "active": "8c082e45bb39b01d",
   "lastOpenFiles": [
-    "Untitled mindmap.md",
     "MindMap.md",
-    "README.md"
+    "README.md",
+    "Untitled mindmap.md"
   ]
 }
